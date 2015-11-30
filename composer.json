@@ -1,11 +1,15 @@
 {
-    "name": "bobagold/postfix-log-parser",
+    "name": "wendrowycz/postfix-log-parser",
     "description": "Parser for log files of Postfix MTA",
     "authors": [
         {
             "name": "Vladimir Goldobin",
             "email": "vgold@xiag.ch"
-        }
+        },
+	{
+	    "name": "Bartosz Grzesiak"
+	    "email": "bartosz.grzesiak@gmail.com"
+	}
     ],
     "autoload": {
         "psr-0": {
